@@ -1,4 +1,3 @@
-(Libreries)
 flask
 python-dotenv
 pymongo[srv]
